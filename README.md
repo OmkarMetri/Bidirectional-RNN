@@ -1,10 +1,5 @@
 # Bidirectional-RNN
 
-## Dataset
-1. Collected handwritten Kannada documents from different groups of people
-2. Experiment was conducted on 500 such documents
-3. Documents scanned from the scanner will have noise
-
 ## Preprocessing
 1. The images is resized to 28*28. 
 2. After this, the images is converted to black and white images using simple thresholding technique.
