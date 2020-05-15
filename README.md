@@ -1,6 +1,6 @@
 # Bidirectional-RNN
 
-## Preprocessing
+## Feature Extraction
 1. The images is resized to 28*28. 
 2. After this, the images is converted to black and white images using simple thresholding technique.
 3. The pixel values are normalized for faster computation. 
