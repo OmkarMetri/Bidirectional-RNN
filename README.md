@@ -10,6 +10,3 @@
 1. Output layer of the architecture uses Softmax activation unit.
 2. The error metric is softmax cross-entropy. The main reason for using softmax cross-entropy was because the gradient of the SCE error is directly proportional to the update made at that point.
 3. Adam optimizer is used for faster convergence.
-
-## Results
-Recognition Rate: 90.9%
